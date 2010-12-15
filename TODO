@@ -1,4 +1,6 @@
 * Normalize as much as possible of the output as dprint statements:
     #define dprint(expr) printf(#expr " = '%c'\n", expr)
 * Review comments
+* Switches are only presented on chapter 03, all references to it before
+  should be removed.
 
